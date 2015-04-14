@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Flags","Local flags"]],"enum":[["Flag","Standard local flags"]]});
